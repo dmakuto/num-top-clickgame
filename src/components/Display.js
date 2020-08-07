@@ -4,7 +4,9 @@ const style = {
     fontSize: 110,
     color: 'lightgrey',
     position: 'absolute',
-    top: '30%'
+    top: '30%',
+    width: '100%', 
+    
 };
 
 export const Display = (props) => {
